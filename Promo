@@ -1,0 +1,14 @@
+[
+  {
+    "code": "START",
+    "rewardType": "silver",
+    "rewardValue": "1000",
+    "isActive": true
+  },
+  {
+    "code": "LEGEND24",
+    "rewardType": "avatar",
+    "rewardValue": "avatar_cool_tank",
+    "isActive": true
+  }
+]
