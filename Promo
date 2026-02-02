@@ -1,6 +1,6 @@
 [
   {
-    "code": "START",
+    "code": "RelizGame",
     "rewardType": "silver",
     "rewardValue": "500",
     "isActive": true
