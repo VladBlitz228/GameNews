@@ -1,12 +1,12 @@
 [
   {
-    "code": "RelizGame",
+    "code": "RelizSilver",
     "rewardType": "silver",
     "rewardValue": "500",
     "isActive": true
   },
   {
-    "code": "RelizGame",
+    "code": "RelizAvatar",
     "rewardType": "avatar",
     "rewardValue": "1",
     "isActive": true
