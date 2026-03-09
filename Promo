@@ -1,14 +1,8 @@
 [
   {
-    "code": "2",
+    "code": "RelizGame",
     "rewardType": "silver",
-    "rewardValue": "500",
-    "isActive": true
-  },
-  {
-    "code": "2",
-    "rewardType": "avatar",
-    "rewardValue": "1",
+    "rewardValue": "8900",
     "isActive": true
   }
 ]
