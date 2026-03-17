@@ -1,8 +1,8 @@
 [
   {
-    "code": "Leopard2",
+    "code": "NewTank",
     "rewardType": "silver",
-    "rewardValue": "250",
+    "rewardValue": "1200",
     "isActive": true
   }
 ]
