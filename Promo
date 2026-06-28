@@ -1,8 +1,8 @@
 [
   {
-    "code": "NewTank",
+    "code": "Game2016",
     "rewardType": "silver",
-    "rewardValue": "1200",
+    "rewardValue": "1900",
     "isActive": true
   }
 ]
