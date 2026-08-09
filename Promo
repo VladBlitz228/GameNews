@@ -1,8 +1,8 @@
 [
   {
-    "code": "NewGames",
+    "code": "SuperTest",
     "rewardType": "silver",
-    "rewardValue": "1900",
+    "rewardValue": "20000",
     "isActive": true
   }
 ]
